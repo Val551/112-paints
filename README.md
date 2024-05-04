@@ -1,2 +1,2 @@
 # 112-paints
-An open-source project replicating a simplified version of Microsoft Paint, featuring essential drawing tools and a user-friendly interface.
+This project aims to recreate a small part of Microsoft Paint, providing a simple yet functional drawing application. Inspired by the classic Paint program, this replica offers users a familiar environment for creating and editing images.
